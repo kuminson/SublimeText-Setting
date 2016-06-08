@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet"
+	]
+}
